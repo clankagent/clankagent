@@ -1,10 +1,10 @@
 # clank.
 
 ```text
-      .---.
+     .-----.
      | o o |    small tools, useful noise.
      |  _  |
-    /|_____ |\
+    /|_____|\
      /     \
 ```
 
